@@ -1,0 +1,21 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.banner {
+    background-image: url('images/blog-background1.jpg') ;
+    background-size: cover;
+    width: auto;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+}
+
+.banner-content h2 {
+
+font-size: 50px;    
+
+
+}
